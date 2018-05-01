@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Icons/icons8-add-image-32.png</file>
+        <file>Icons/icons8-database-50.png</file>
+        <file>Icons/icons8-polygon-filled-50.png</file>
+        <file>Icons/icons8-save-as-filled-50.png</file>
+        <file>Icons/icons8-synchronize-filled-50.png</file>
+        <file>Icons/icons8-delete-filled-50.png</file>
+        <file>Icons/icons8-clear-symbol-64.png</file>
+        <file>Icons/icons8-about-50.png</file>
+        <file>Icons/icons8-compose-50.png</file>
+        <file>Icons/icons8-qt-50.png</file>
+        <file>Icons/icons8-width-50.png</file>
+        <file>Icons/icons8-exit-50.png</file>
+    </qresource>
+</RCC>
